@@ -9,21 +9,21 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                 <li class="nav-item"><a class="nav-link" href="index.php?view=home">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="index.php?view=acerca">Acerca</a></li>
-                <li class="nav-item"><a class="nav-link" href="index.php?view=restaurante">Ecommerce</a></li>
-                <li class="nav-item"><a class="nav-link" href="index.php?view=recepcion">Web Site</a></li>
+                <li class="nav-item"><a class="nav-link" href="index.php?view=home">Acerca</a></li>
+                <li class="nav-item"><a class="nav-link" href="index.php?view=home">Ecommerce</a></li>
+                <li class="nav-item"><a class="nav-link" href="index.php?view=home">Web Site</a></li>
                 <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         SEO
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="index.php?view=politicaReservacion">Bussines Intelligent</a></li>
-                        <li><a class="dropdown-item" href="index.php?view=politicaHospedaje">Formularios web</a></li>
-                        <li><a class="dropdown-item" href="index.php?view=politicaCancelacion">ChatBoot WhatsApp</a></li>
+                        <li><a class="dropdown-item" href="index.php?view=home">Bussines Intelligent</a></li>
+                        <li><a class="dropdown-item" href="index.php?view=home">Formularios web</a></li>
+                        <li><a class="dropdown-item" href="index.php?view=home">ChatBoot WhatsApp</a></li>
                         
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="index.php?view=reglamento">CRM Intelligent</a></li>
+                        <li><a class="dropdown-item" href="index.php?view=home">CRM Intelligent</a></li>
                     </ul>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="index.php?view=contacto">Contacto</a></li>
